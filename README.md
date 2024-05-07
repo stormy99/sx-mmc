@@ -4,7 +4,7 @@
     - Minimum 6GB (6244MB)  // Recommended 8GB (8192MB) allocated
     - Ideally your system will need 12GB+ in total (to run your OS etc. normally)
 - Java Installation
-    - [Version 17]([https://www.oracle.com/uk/java/technologies/downloads/#java17](https://www.oracle.com/uk/java/technologies/downloads/#jdk17-windows) Specifically
+    - [Version 17](https://www.oracle.com/uk/java/technologies/downloads/#jdk17-windows) Specifically
 - Minecraft Account
     - A copy of **java** edition (PC), not bedrock/cross-platform
     - Ensure your Mojang account is connected to Microsoft (as per their TOS)
