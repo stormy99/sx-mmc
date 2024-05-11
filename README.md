@@ -1,16 +1,18 @@
 # Stormy-Xena Modded Minecraft
 ## Pre-requisites, what do I need?
 - RAM (Random Access Memory)
-    - Minimum 6GB (6244MB)  // Recommended 8GB (8192MB) allocated
-    - Ideally your system will need 12GB+ in total (to run your OS etc. normally)
+    - Minimum 4GB (4096MB)  // Recommended 6GB (6144MB) allocated
+    - Ideally your system will need 16GB+ in total (to run Windows etc. normally)
 - Java Installation
     - [Version 17](https://www.oracle.com/uk/java/technologies/downloads/#jdk17-windows) Specifically
 - Minecraft Account
     - A copy of **java** edition (PC), not bedrock/cross-platform
     - Ensure your Mojang account is connected to Microsoft (as per their TOS)
+    - If you have a new account, you'll need to run normal/vanilla Minecraft at least once and set your username in the launcher
 - FTB (Feed The Beast)
     - Install the [FTB Launcher](https://piston.feed-the-beast.com/app/ftb-app-1.25.8-x64.exe)
     - Log in with your Microsoft/Minecraft credentials
+    - In Settings then Instances, set your RAM allocation as mentioned above. Under Misc, move your install location - ideally to an SSD.
     - Install the latest "Direwolf20" Modpack for MC1.20 as shown [here](https://i.postimg.cc/KzgMhyF2/image-2024-05-07-171706636.png)
 
 ## Installed and on the title screen, what now?
