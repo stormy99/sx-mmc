@@ -14,6 +14,7 @@
     - Log in with your Microsoft/Minecraft credentials
     - In Settings then Instances, set your RAM allocation as mentioned above. Under Misc, move your install location - ideally to an SSD.
     - Install the latest "Direwolf20" Modpack for MC1.20 as shown [here](https://i.postimg.cc/KzgMhyF2/image-2024-05-07-171706636.png)
+    - It'll take on average a full minute to load up to the title screen (possibly more/less depending on your computer's hardware). Remember it's loading approx 330 mods into the game.
 
 ## Installed and on the title screen, what now?
 - Message Stormy @lightningvi on [Discord](https://i.postimg.cc/DfRKz3TN/image-2024-05-07-172324249.png)
